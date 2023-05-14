@@ -1,10 +1,15 @@
 ---
 layout: home
-title: "Why should select me"
+title: "Technologies I Learned for LFX"
 date: 2023-05-14T21:18:49+05:30
 draft: false
 publish: true
 
+cover: 
+    image: lfx.png
+    alt: 'LFX'
+    caption: 'Technologies I Learned for LFX'
+    comments: true
 ---
 
 Why Me
