@@ -1,0 +1,46 @@
+baseURL: ""
+languageCode: en-us
+title: Why LFX
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: 'Hi There'
+    Content: 'Welcome to my LFX blog'
+  socialIcons: 
+    - name : twitter
+      url: "https://twitter.com/1shubham7"
+    - name : github
+      url: "https://github.com/1shubham7"
+    - name : linkedin
+      url: "https://www.linkedin.com/in/shubham-singh-mahar-5a002b20b/"
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true 
+
+  ShowBreadTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu: 
+  main:
+    - identifier: Catagories
+      name: About Me
+      url: /catagories/
+      weight: 10
+    - identifier: Blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: Github
+      name: Github
+      url: www.github.com/1shubham7
+      weight: 10
+      
+
+# baseURL = 'http://example.org/'
+# languageCode = 'en-us'
+# title = 'Why LFX'
