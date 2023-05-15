@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/tech2/</loc>
+    <lastmod>2023-05-14T22:44:42+05:30</lastmod>
+  </url><url>
+    <loc>/post/c/</loc>
+    <lastmod>2023-05-14T21:18:49+05:30</lastmod>
+  </url><url>
+    <loc>/post/three/</loc>
+    <lastmod>2023-05-14T21:18:49+05:30</lastmod>
+  </url><url>
+    <loc>/post/a/</loc>
+    <lastmod>2023-05-14T21:18:49+05:30</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2023-05-14T21:18:49+05:30</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-05-14T21:18:49+05:30</lastmod>
+  </url><url>
+    <loc>/archives/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

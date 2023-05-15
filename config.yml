@@ -40,8 +40,8 @@ menu:
       name: Github
       url: www.github.com/1shubham7
       weight: 10
-      
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 10
 
-# baseURL = 'http://example.org/'
-# languageCode = 'en-us'
-# title = 'Why LFX'
