@@ -2,6 +2,7 @@ baseURL: ""
 languageCode: en-us
 title: Why LFX
 theme: PaperMod
+order: title
 
 params:
   homeInfoParams:
